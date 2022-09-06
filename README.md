@@ -3,7 +3,7 @@
 The Sparks Foundation - Internship 
 Data Science and Bussines analytics  
 TASK-02\
-Exploratory Data Analysis - Retail 
+Prediction Using Unsupervised ML 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ 
 Data can be found at [https://bit.ly/3i4rbWl  ](https://bit.ly/3kXTdox)
 As a business manager try to find ou the weak areas where you can work to make more profit. 
@@ -13,5 +13,5 @@ AUTHOR :- Anubhav
 
 
 
-Prediction Using Unsupervised ML
+
 From the given 'Iris' Dataset,predict the optimum numbers of clusters, and represent it visually.
